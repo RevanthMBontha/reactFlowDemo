@@ -1,2 +1,0 @@
-use `yarn` command to initialise dependencies
-use `yarn dev` command to start development server to play with the demo
